@@ -17,6 +17,7 @@ namespace csd3354_week_05
     {
         public Node() { }
         public Node floor;
+
         public Node elevatorUp;
         public string FloorNumber;
     }
